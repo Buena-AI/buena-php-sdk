@@ -1,7 +1,6 @@
 {
   "name": "buena/sdk",
   "description": "Official PHP SDK for Buena.ai API v2 - LinkedIn automation and lead management",
-  "version": "1.0.0",
   "keywords": [
     "buena",
     "linkedin",
